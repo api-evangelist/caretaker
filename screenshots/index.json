@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "caretaker",
+    "captured_at": "2026-10-11T183816",
+    "source_url": "https://caretaker.com",
+    "source_type": "Website",
+    "file": "caretaker-2026-10-11T183816.png",
+    "bytes": 87843,
+    "capture": "playwright-local"
+  }
+]
